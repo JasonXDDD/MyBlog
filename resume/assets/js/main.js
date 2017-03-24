@@ -279,7 +279,7 @@ jQuery(function ($) { "use strict";
 				var team = [
 					{
 						text: "<h3>第一屆資工系計算機中心</h3>新創的系上組織，希望能將系上行政與目前相關的組織連結，並且提供一個資源空間，讓我們能開發新東西。<br>我擔任系記中的前端群與總負責人。", 
-						img: "images/team/csiecc-photo.JPG"
+						img: "images/team/csiecc-photo.jpg"
 					},
 					{
 						text: "<h3>EXD前端聚</h3>由我創立的前端方面的聚會，希望透過這個聚會能群聚學校對於這方面的同好者，彼此分享各自學習歷程。<br>目前聚會在星期四晚上分享。", 
@@ -287,7 +287,7 @@ jQuery(function ($) { "use strict";
 					},
 					{
 						text: "<h3>TiramisuTW</h3>在前端聚找到兩個有經驗的朋友，一同組成的團隊，我們會找些好玩的網頁題材來做些作品。", 
-						img: "images/team/tiramisu-photo.JPG"
+						img: "images/team/tiramisu-photo.jpg"
 					}
 				];
 
