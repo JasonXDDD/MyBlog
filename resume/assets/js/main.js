@@ -4,6 +4,37 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+jQuery(function ($) { "use strict";
+    
+    /* ========================================================================= */
+    /*  Page Preloader
+    /* ========================================================================= */
+    $.preload( 
+        'images/head.jpg',
+        'images/logo-bg.png',
+        'images/school.jpg',
+        'images/spotlight03.jpg',
+        'images/tku-dark.jpg',
+        'images/tku.jpg',
+        'images/work.jpg',
+
+        'images/team/csiecc-photo.jpg',
+        'images/team/exd-photo.jpg',
+        'images/team/EXDFrontEnd.jpg',
+        'images/team/tiramisu-photo.jpg',
+        'images/team/TiramisuTW.png',
+		'images/team/tkucsiecc.jpg'
+    );
+
+
+
+    window.onload = function () {
+        document.getElementById('loading-mask').style.display = 'none';
+    }
+
+});
+
+
 (function($) {
 
 	skel.breakpoints({
