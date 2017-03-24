@@ -256,7 +256,7 @@
 					},
 					{
 						text: "<h3>TiramisuTW</h3>在前端聚找到兩個有經驗的朋友，一同組成的團隊，我們會找些好玩的網頁題材來做些作品。", 
-						img: "images/team/tiramisu-photo.jpg"
+						img: "images/team/tiramisu-photo.JPG"
 					}
 				];
 
